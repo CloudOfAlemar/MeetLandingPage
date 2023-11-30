@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Link](https://your-solution-url.com)
-- Live Site URL: [Live Site Link](https://your-live-site-url.com)
+- Solution URL: [Solution Link](https://www.frontendmentor.io/solutions/meet-landing-page-BGPokptlw5)
+- Live Site URL: [Live Site Link](https://cloudofalemar.github.io/MeetLandingPage/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Hello everyone, I just completed the Meet Landing Page challenge! I feel that I'm gaining experience and that is allowing me to complete these challenges at a faster pace. My focus on the next project is to make sure that I organize my code so that I'm not repeating myself too much and to keep it organized so that everything runs smooth. I was excited when using CSS Grid this time for the four images. I can't believe how much easier it was to get consistent spacing, instead of using Flexbox. After a few more projects I want to try out a CSS framework. Maybe Tailwind CSS? And maybe add some animations to the designs as well. It's going to be fun, so stay tuned :D
 
 ## Author
 
